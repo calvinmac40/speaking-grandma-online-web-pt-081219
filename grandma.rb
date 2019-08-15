@@ -2,8 +2,10 @@
    if #{string}.downcase
  else "HUH?! SPEAK UP, SONNY!"
  elsif #{string}.upcase
- elsif ""
+ elsif "NO, NOT SINCE 1938!"
  end
+ end
+ 
    
 
 
