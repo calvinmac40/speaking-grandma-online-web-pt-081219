@@ -1,8 +1,12 @@
  def speak_to_grandma(string)
-   if #{string}
+   if #{string}.downcase
  else
+ end
    
 
+
+
+speak_to_grandma("I love you grandma")
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
