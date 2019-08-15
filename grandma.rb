@@ -1,5 +1,6 @@
  def speak_to_grandma(string)
-   if 
+   if #{string}
+ else
    
 
 # Whatever you say to grandma, she should respond with
