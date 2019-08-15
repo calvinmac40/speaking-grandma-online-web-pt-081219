@@ -2,6 +2,7 @@
    if #{string}.downcase
  else "HUH?! SPEAK UP, SONNY!"
  elsif #{string}.upcase
+ elsif ""
  end
    
 
