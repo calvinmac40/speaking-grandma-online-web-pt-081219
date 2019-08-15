@@ -1,6 +1,6 @@
  def speak_to_grandma(string)
    if #{string}.downcase
- else
+ else 
  end
    
 
