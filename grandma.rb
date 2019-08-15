@@ -12,7 +12,7 @@
 
 
 
-speak_to_grandma("I love you grandma")
+speak_to_grandma("I love")
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
